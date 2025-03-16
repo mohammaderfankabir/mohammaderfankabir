@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammaderfankabir) ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohammaderfankabir)
 
 <p align="center">
-  <img src="hero.svg" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/dd87c07f-4ec9-420f-a03b-57ac79fd22f6" style="max-width: 100%; height: auto;">
 </p>
